@@ -127,28 +127,28 @@ plt.axis('off')
 ## Output:
 
 ### Original Image
+<img width="515" height="508" alt="Screenshot 2026-02-03 102635" src="https://github.com/user-attachments/assets/a6c27675-6d38-41eb-898d-0a1b531b7675" />
 
 
-![Uploading Screenshot 2026-02-03 102635.png…]()
+
 
 
 ### i)Image Translation
 
 
-![Uploading Screenshot 2026-02-03 102642.png…]()
+<img width="513" height="514" alt="Screenshot 2026-02-03 102642" src="https://github.com/user-attachments/assets/74421e40-0c96-4bbb-a4ae-0ea5a185a10f" />
 
 
 ### ii) Image Scaling
 
 
-![Uploading Screenshot 2026-02-03 102647.png…]()
+<img width="706" height="354" alt="Screenshot 2026-02-03 102647" src="https://github.com/user-attachments/assets/c6cc1e40-4f08-45d2-a903-128ae711aacd" />
 
 
 ### iii)Image shearing
 
-" />
-![Uploading Screenshot 2026-02-03 102653.png…]()
 
+<img width="525" height="508" alt="Screenshot 2026-02-03 102653" src="https://github.com/user-attachments/assets/bb8d849f-f96d-4522-9f25-f05e6bba0728" />
 
 
 ### iv)Image Reflection
