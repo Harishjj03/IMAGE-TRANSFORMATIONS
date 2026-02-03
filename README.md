@@ -1,5 +1,6 @@
 # IMAGE-TRANSFORMATIONS
-
+## Name: HARISHBALA J
+## Register no:212224223002
 
 ## Aim
 To perform image transformation such as Translation, Scaling, Shearing, Reflection, Rotation and Cropping using OpenCV and Python.
