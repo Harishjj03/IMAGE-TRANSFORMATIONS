@@ -128,8 +128,9 @@ plt.axis('off')
 ## Output:
 
 ### Original Image
-<img width="515" height="508" alt="Screenshot 2026-02-03 102635" src="https://github.com/user-attachments/assets/a6c27675-6d38-41eb-898d-0a1b531b7675" />
 
+
+<img width="515" height="508" alt="Screenshot 2026-02-03 102635" src="https://github.com/user-attachments/assets/68f7dbe0-2375-4d25-bed5-1d9a24008193" />
 
 
 
@@ -137,36 +138,35 @@ plt.axis('off')
 ### i)Image Translation
 
 
-<img width="513" height="514" alt="Screenshot 2026-02-03 102642" src="https://github.com/user-attachments/assets/74421e40-0c96-4bbb-a4ae-0ea5a185a10f" />
 
+<img width="513" height="514" alt="Screenshot 2026-02-03 102642" src="https://github.com/user-attachments/assets/ea1bf0c4-94b0-4a71-b8a3-7de306076134" />
 
 ### ii) Image Scaling
 
+<img width="706" height="354" alt="Screenshot 2026-02-03 102647" src="https://github.com/user-attachments/assets/1748bdb4-8614-498f-bdc1-74d2db4b9b5c" />
 
-<img width="706" height="354" alt="Screenshot 2026-02-03 102647" src="https://github.com/user-attachments/assets/c6cc1e40-4f08-45d2-a903-128ae711aacd" />
 
 
 ### iii)Image shearing
 
 
-<img width="525" height="508" alt="Screenshot 2026-02-03 102653" src="https://github.com/user-attachments/assets/bb8d849f-f96d-4522-9f25-f05e6bba0728" />
+<img width="525" height="508" alt="Screenshot 2026-02-03 102653" src="https://github.com/user-attachments/assets/76c9b261-3a45-498e-9ba1-17c49b237e89" />
+
 
 
 ### iv)Image Reflection
 
-<img width="445" height="515" alt="Screenshot 2026-02-03 102701" src="https://github.com/user-attachments/assets/3d2d1848-c2f5-4569-9c18-c3b7427b8f8f" />
-
+<img width="445" height="515" alt="Screenshot 2026-02-03 102701" src="https://github.com/user-attachments/assets/e4f55caf-d3ac-4989-8600-b8287fab7273" />
 
 
 ### v)Image Rotation
 
-
-<img width="391" height="496" alt="Screenshot 2026-02-03 102708" src="https://github.com/user-attachments/assets/bf6bd326-bfb8-40da-8769-dec548ab1200" />
+<img width="391" height="496" alt="Screenshot 2026-02-03 102708" src="https://github.com/user-attachments/assets/cbff6a49-6f6b-44b1-a60d-f44763d5bc43" />
 
 
 ### vi)Image Cropping
+<img width="607" height="494" alt="Screenshot 2026-02-03 102716" src="https://github.com/user-attachments/assets/03149d0e-3dcd-4579-827d-63da62dae991" />
 
-<img width="607" height="494" alt="Screenshot 2026-02-03 102716" src="https://github.com/user-attachments/assets/2a5a821a-3cc6-4e31-9daa-626cfe29d51b" />
 
 
 
